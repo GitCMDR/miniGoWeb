@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="218730ff-6941-432e-8cf3-40cc5940d64f" name="Default" comment="" />
+    <list default="true" id="218730ff-6941-432e-8cf3-40cc5940d64f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/002_data/01_passingData/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_data/01_passingData/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_data/02_passingDataVariable/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_data/02_passingDataVariable/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_dataStructures/01_passSlice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_dataStructures/01_passSlice/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_dataStructures/02_funcMap/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/01/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/02/toddExample/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/02/toddExample/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/02/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_compositionTemplating/03/tpl.gohtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/cmdr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/cmdr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,76 +28,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="e#14#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="one.gohtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/04_parseGlob/templates/one.gohtml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/04_parseGlob/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="33" />
-              <folding>
-                <element signature="e#14#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/05_performantParsing/main.go">
+        <entry file="file://$PROJECT_DIR$/004_compositionTemplating/03/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="1026">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
-                <element signature="e#454#494#0" expanded="true" />
+                <element signature="e#14#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="one.gohtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/05_performantParsing/templates/one.gohtml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="one.gohtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/one.gohtml">
+      <file leaf-file-name="tpl.gohtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004_compositionTemplating/03/tpl.gohtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="two.gohtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/two.gohtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="three.gohtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/three.gohtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -90,12 +56,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="GoHTML File" />
         <option value="Go File" />
+        <option value="GoHTML File" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.10.1/libexec" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.10.2/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -113,6 +82,22 @@
         <option value="$PROJECT_DIR$/001_parseExecute/03_parseFiles/two.gohtml" />
         <option value="$PROJECT_DIR$/001_parseExecute/04_parseGlob/main.go" />
         <option value="$PROJECT_DIR$/001_parseExecute/05_performantParsing/main.go" />
+        <option value="$PROJECT_DIR$/002_data/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/002_data/main.go" />
+        <option value="$PROJECT_DIR$/002_data/01_passingData/main.go" />
+        <option value="$PROJECT_DIR$/002_data/02_passingDataVariable/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/003_dataStructures/01_passSlice/main.go" />
+        <option value="$PROJECT_DIR$/003_dataStructures/01_passSlice/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/003_dataStructures/02_funcMap/main.go" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/01/main.go" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/01/tpl.gothml.gohtml" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/01/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/02/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/02/toddExample/tpl.gohtml" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/02/toddExample/main.go" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/02/main.go" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/03/main.go" />
+        <option value="$PROJECT_DIR$/004_compositionTemplating/03/tpl.gohtml" />
       </list>
     </option>
   </component>
@@ -123,17 +108,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
-    <option name="y" value="109" />
-    <option name="width" value="1401" />
-    <option name="height" value="867" />
+    <option name="x" value="184" />
+    <option name="y" value="121" />
+    <option name="width" value="1312" />
+    <option name="height" value="909" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,24 +129,19 @@
             <path>
               <item name="miniGoWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="miniGoWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="001_parseExecute" type="462c0819:PsiDirectoryNode" />
+              <item name="004_compositionTemplating" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="miniGoWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="miniGoWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="001_parseExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="04_parseGlob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miniGoWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniGoWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="001_parseExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="05_performantParsing" type="462c0819:PsiDirectoryNode" />
+              <item name="004_compositionTemplating" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,21 +149,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cmdr/Desktop/development/goWorkspace/src/github.com/GitCMDR/miniGoWeb/001_parseExecute/03_parseFiles/three.gohtml" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="go.dep" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/001_parseExecute" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/004_compositionTemplating/02" />
+      <recent name="$PROJECT_DIR$/003_dataStructures/01_passSlice" />
+      <recent name="$PROJECT_DIR$/002_data/02_passingDataVariable" />
       <recent name="$PROJECT_DIR$/001_parseExecute/05_performantParsing" />
       <recent name="$PROJECT_DIR$/001_parseExecute/04_parseGlob/templates" />
-      <recent name="$PROJECT_DIR$/001_parseExecute/02_toFile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/002_data/01_passingData" />
+      <recent name="$PROJECT_DIR$/001_parseExecute" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,24 +183,24 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="109" width="1401" height="867" extended-state="0" />
+    <frame x="184" y="121" width="1312" height="909" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16850394" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50036794" side_tool="true" weight="0.32931727" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4996321" visible="true" weight="0.3586819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -228,118 +212,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/01_toStdout/tpl.gohtml">
+    <entry file="file://$PROJECT_DIR$/004_compositionTemplating/02/toddExample/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
+        <state relative-caret-position="-150" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/01_toStdout/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/02_toFile/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/02_toFile/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/01_toStdout/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/02_toFile/index.html">
+    <entry file="file://$PROJECT_DIR$/004_compositionTemplating/02/toddExample/tpl.gohtml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/01_toStdout/tpl.gohtml">
+    <entry file="file://$PROJECT_DIR$/004_compositionTemplating/02/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="-37" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004_compositionTemplating/03/tpl.gohtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/two.gohtml.html">
+    <entry file="file://$PROJECT_DIR$/004_compositionTemplating/03/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/three.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/three.gohtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/two.gohtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/one.gohtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/03_parseFiles/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="1026">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
-            <element signature="e#14#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/04_parseGlob/templates/one.gohtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/05_performantParsing/templates/one.gohtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/04_parseGlob/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="33" />
-          <folding>
-            <element signature="e#14#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_parseExecute/05_performantParsing/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#454#494#0" expanded="true" />
+            <element signature="e#14#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
